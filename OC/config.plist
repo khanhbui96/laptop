@@ -354,7 +354,7 @@
 				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
-			</dict>			
+			</dict>
 			<dict>
 				<key>BundlePath</key>
 				<string>USBPorts.kext</string>
@@ -548,17 +548,15 @@
 			<key>AdviseWindows</key>
 			<true/>
 			<key>MLB</key>
-			<string>C02830902GUGDQPFB</string>
-			<key>ROM</key>
-			<data>wFecj1MO</data>
+			<string>C02845404CDGDQP8C</string>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>MacBookPro11,4</string>
 			<key>SystemSerialNumber</key>
-			<string>C02X4AY8G8WN</string>
+			<string>C02XN7YLG8WN</string>
 			<key>SystemUUID</key>
-			<string>E2CFABA6-F905-4116-A1E4-370B278509A7</string>
+			<string>E849DA60-A146-4342-9409-A6E2468F530E</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
